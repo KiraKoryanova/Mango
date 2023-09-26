@@ -1,0 +1,2 @@
+N=INT(INPUT())
+PRINT(F"N=(N+1))
